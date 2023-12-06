@@ -8,16 +8,7 @@ body{
     background-color: #080808;
     color:white;
 }
-/* .container{
-    width: 400px;
-    height: 400px;
-    background-image: url("khushboo.jpg");
-    background-size: cover;
-    background-position:center ;
-    margin: 190px 0 0 798px;
-    border-radius: 50%;
-    position: absolute;
-} */
+
 .header{
     position: fixed;
     top: 0;
@@ -173,7 +164,7 @@ body{
     width: 400px;
     border-radius: 50%;
     margin-left: 70px;
-    margin-top: 90px;
+    margin-top: 30px;
     box-shadow: 0 0 5px cyan,
     0 0 25px cyan, 0 0 10px cyan,
     0 0 100px cyan, 0 0 40px cyan
